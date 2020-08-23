@@ -9,8 +9,3 @@ Basically universal LAMP stack.
 ### How do I get set up? ###
 
 Run `vagrant up` from directory and next chose connection ie. `1`
-
-
-### Who do I talk to? ###
-
-@copy Wojciech Zaorski
